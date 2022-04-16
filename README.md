@@ -5,21 +5,21 @@ Data Cleansing using Python
 
 2. Load the data we want to analyzed 
 
-/n Data file that we loaded is "Titanic.csv"
+  Data file that we loaded is "Titanic.csv"
 
 3. Read Data "Titanic.csv" to display into Python interface 
 
 4. Identificate data 
 
 
-classify, operate, and execute some raw data into the process we wanted
+  classify, operate, and execute some raw data into the process we wanted
 
 5. Display the data
 
 
-display the data result that has been analyzed using plot or graph 
+  display the data result that has been analyzed using plot or graph 
 
 6. Conclusion
 
 
-The data result could generate some conclusion about data we are processed
+  The data result could generate some conclusion about data we are processed
