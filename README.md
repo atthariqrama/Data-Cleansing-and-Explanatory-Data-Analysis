@@ -5,7 +5,7 @@ Data Cleansing using Python
 
 2. Load the data we want to analyzed 
 
-Data file that we loaded is "Titanic.csv"
+/n Data file that we loaded is "Titanic.csv"
 
 3. Read Data "Titanic.csv" to display into Python interface 
 
